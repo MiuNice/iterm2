@@ -1,6 +1,7 @@
 
 *:@Author*: WangYH(Miu)
 
+##### 注意：需要先安装 zsh 与 oh my zsh
 
 1. 从 git上下载 德古拉皮肤
 ```shell
